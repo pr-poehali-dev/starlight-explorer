@@ -79,10 +79,10 @@ export function HeroSection() {
           <span className="text-sm font-medium text-primary">Сайты и мобильные приложения под ключ</span>
         </div>
 
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-black tracking-tight mb-6 animate-fade-in-up text-balance leading-none">
-          Сайты и приложения{" "}
+        <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 animate-fade-in-up text-balance">
+          Сайты, которые{" "}
           <span className="text-primary relative inline-block">
-            за 1 день
+            впечатляют
             <svg
               className="absolute -bottom-2 left-0 w-full"
               height="12"
@@ -99,7 +99,6 @@ export function HeroSection() {
               />
             </svg>
           </span>
-          {" "}— и это не шутка
         </h1>
 
         <p className="text-xl sm:text-2xl text-muted-foreground mb-10 max-w-3xl mx-auto animate-fade-in-up animate-delay-100 leading-relaxed">
